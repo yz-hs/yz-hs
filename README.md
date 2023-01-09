@@ -10,4 +10,4 @@ I'm a high school student in China, which is ✨vegetable-like✨(means weak in 
 - 💬 Feel free to ask me about something.
 - 📫 How to reach me: 2378975755@qq.com
 - 😄 Pronouns: cieu, or female pronoun.
-- ⚡ Fun fact: $7^7\pmod7!=2023$, this year.
+- ⚡ Fun fact: $7^7\bmod7!=2023$, this year.
