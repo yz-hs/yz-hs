@@ -9,5 +9,5 @@ I'm a high school student in China, which is ✨vegetable-like✨(means weak in 
 - 👯 I’m looking to collaborate on ✨dalao✨(means persons who are strong in ability).
 - 💬 Feel free to ask me about something.
 - 📫 How to reach me: 2378975755@qq.com, or my blog https://yz-hs.github.io is also ok.
-- 😄 Pronouns: cieu, or female pronouns.
+- 😄 Pronouns: Yurchiu, or female pronouns.
 - ⚡ Fun fact: $7^7\bmod7!=2023$, this year.
