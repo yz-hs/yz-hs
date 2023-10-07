@@ -1,3 +1,5 @@
+**这个账号是柚初（Yurchiu）还是 OIer 时建立的。现在不再使用。**
+
 ### Hi there 👋
 
 <img src="https://github-readme-stats.vercel.app/api?username=yz-hs&theme=radical&show_icons=true" alt="Yurchiu's GitHub stats" height="200px" />
